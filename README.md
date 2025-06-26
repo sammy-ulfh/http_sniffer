@@ -40,7 +40,7 @@
 
 ## How does it work?
 
-This **HTTP Sniffer** tool that captures all HTTP traffic on your Network Inetrface, focused on capture all visied URL's and potential credentials.
+This **HTTP Sniffer** tool that captures all HTTP traffic on your Network Inetrface, focused on capture all visited URL's and potential credentials from your target device.
 
 It was built to capture traffic while performing spoofing, allowing you to see all the url's your target is accessing. You can complement the **[arp_spoofing](https://github.com/sammy-ulfh/arp_spoofer)** tool with this one to capure all HTTP traffic from your target.
 
